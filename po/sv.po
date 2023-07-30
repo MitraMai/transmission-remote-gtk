@@ -704,7 +704,7 @@ msgstr ""
 
 #: src/trg-menu-bar.c:433
 msgid "Sort"
-msgstr ""
+msgstr "Sortering"
 
 #: src/trg-menu-bar.c:436 src/trg-preferences-dialog.c:597
 msgid "State selector"
@@ -826,11 +826,11 @@ msgstr ""
 
 #: src/trg-peers-tree-view.c:62 src/trg-torrent-tree-view.c:90
 msgid "Down Speed"
-msgstr "Ned hastighet"
+msgstr "Hastighet ned"
 
 #: src/trg-peers-tree-view.c:64 src/trg-torrent-tree-view.c:92
 msgid "Up Speed"
-msgstr "Upp hastighet"
+msgstr "Hastighet upp"
 
 #: src/trg-peers-tree-view.c:68
 msgid "Flags"
@@ -858,7 +858,7 @@ msgstr "Uppdateringsintervall minimerat:"
 
 #: src/trg-preferences-dialog.c:381
 msgid "Session update interval:"
-msgstr ""
+msgstr "Sessionens uppdateringsintervall:"
 
 #: src/trg-preferences-dialog.c:383
 msgid "Torrents"
@@ -893,7 +893,9 @@ msgid ""
 "Documentation for commands can be found <a href=\"https://github.com/"
 "transmission-remote-gtk/transmission-remote-gtk/wiki/Local-Command-"
 "usage\">here</a>"
-msgstr ""
+msgstr "Dokumentation för de olika kommandona finns <a href=\"https://github.com/"
+"transmission-remote-gtk/transmission-remote-gtk/wiki/Local-Command-"
+"usage\">här</a>"
 
 #: src/trg-preferences-dialog.c:567
 msgid "Remote Download Directories"
@@ -921,7 +923,7 @@ msgstr "Visa i systembricka"
 
 #: src/trg-preferences-dialog.c:637
 msgid "System tray not supported."
-msgstr ""
+msgstr "Systembricka stöds inte."
 
 #: src/trg-preferences-dialog.c:642
 msgid "Minimise to system tray"
@@ -945,7 +947,7 @@ msgstr "Profil: "
 
 #: src/trg-preferences-dialog.c:683
 msgid "New"
-msgstr ""
+msgstr "Ny"
 
 #: src/trg-preferences-dialog.c:687 src/trg-trackers-tree-view.c:252
 msgid "Delete"
@@ -969,7 +971,7 @@ msgstr "Port:"
 
 #: src/trg-preferences-dialog.c:713
 msgid "RPC URL Path:"
-msgstr ""
+msgstr "RPC URL sökväg:"
 
 #: src/trg-preferences-dialog.c:716
 msgid "Username:"
@@ -989,7 +991,7 @@ msgstr "SSL"
 
 #: src/trg-preferences-dialog.c:728
 msgid "Validate SSL Certificate"
-msgstr ""
+msgstr "Validera SSL certifikat"
 
 #: src/trg-preferences-dialog.c:733
 msgid "Timeout:"
@@ -1006,13 +1008,13 @@ msgstr "Seedare"
 
 #: src/trg-preferences-dialog.c:746
 msgid "Value"
-msgstr ""
+msgstr "Värde"
 
 #: src/trg-preferences-dialog.c:778 src/trg-remote-prefs-dialog.c:627
 #: src/trg-stats-dialog.c:267 src/trg-torrent-add-url-dialog.c:130
 #: src/trg-torrent-move-dialog.c:105 src/trg-torrent-props-dialog.c:491
 msgid "_Close"
-msgstr ""
+msgstr "_Stäng"
 
 #: src/trg-preferences-dialog.c:779 src/trg-remote-prefs-dialog.c:628
 #: src/trg-torrent-props-dialog.c:492
@@ -1033,27 +1035,27 @@ msgstr "Mappar"
 
 #: src/trg-remote-prefs-dialog.c:271
 msgid "Sun"
-msgstr ""
+msgstr "Sön"
 
 #: src/trg-remote-prefs-dialog.c:271
 msgid "Mon"
-msgstr ""
+msgstr "Mån"
 
 #: src/trg-remote-prefs-dialog.c:271
 msgid "Tue"
-msgstr ""
+msgstr "Tis"
 
 #: src/trg-remote-prefs-dialog.c:271
 msgid "Wed"
-msgstr ""
+msgstr "Ons"
 
 #: src/trg-remote-prefs-dialog.c:271
 msgid "Thu"
-msgstr ""
+msgstr "Tors"
 
 #: src/trg-remote-prefs-dialog.c:271
 msgid "Fri"
-msgstr ""
+msgstr "Fre"
 
 #: src/trg-remote-prefs-dialog.c:271
 #, fuzzy
@@ -1153,7 +1155,7 @@ msgstr "Uppdatera"
 #: src/trg-remote-prefs-dialog.c:455 src/trg-remote-prefs-dialog.c:540
 #, fuzzy
 msgid "Blocklist (%"
-msgstr "Blocklist"
+msgstr "Blockeringslista"
 
 #: src/trg-remote-prefs-dialog.c:492 src/trg-remote-prefs-dialog.c:644
 msgid "Connections"
@@ -1189,7 +1191,7 @@ msgstr "Slumpmässig port vid start"
 
 #: src/trg-remote-prefs-dialog.c:520
 msgid "Request forwarding of the peer port using UPnP or NAT-PMP"
-msgstr ""
+msgstr "Begär portforwarding för porten med hjälp av UPnP eller NAT-PMP"
 
 #: src/trg-remote-prefs-dialog.c:524
 msgid "Protocol"
@@ -1209,11 +1211,11 @@ msgstr "Lokal peer sökning"
 
 #: src/trg-remote-prefs-dialog.c:538
 msgid "Blocklist"
-msgstr "Blocklist"
+msgstr "Blockeringslista"
 
 #: src/trg-remote-prefs-dialog.c:553
 msgid "Blocklist URL:"
-msgstr "Blocklist URL:"
+msgstr "Blockeringslista URL:"
 
 #: src/trg-remote-prefs-dialog.c:569
 msgid "Environment"
@@ -1265,7 +1267,7 @@ msgstr "Begränsingar"
 
 #: src/trg-state-selector.c:204
 msgid "Refresh"
-msgstr ""
+msgstr "Uppdatera"
 
 #: src/trg-state-selector.c:601
 msgid "All"
@@ -1273,11 +1275,11 @@ msgstr "Alla"
 
 #: src/trg-state-selector.c:604 src/trg-state-selector.c:653
 msgid "Queue Down"
-msgstr "Kö upp"
+msgstr "Kö ned"
 
 #: src/trg-state-selector.c:608 src/trg-state-selector.c:655
 msgid "Queue Up"
-msgstr "Kö ned"
+msgstr "Kö upp"
 
 #: src/trg-state-selector.c:612
 msgid "Complete"
@@ -1382,7 +1384,7 @@ msgstr ""
 #: src/trg-torrent-add-dialog.c:401
 #, c-format
 msgid "Unable to open torrent file: %s"
-msgstr "Misslyckades att öppna torrentfil: %s"
+msgstr "Misslyckades med att öppna torrentfil: %s"
 
 #: src/trg-torrent-add-dialog.c:465
 msgid "(None)"
@@ -1418,7 +1420,7 @@ msgstr "Lägg till torrent"
 
 #: src/trg-torrent-add-dialog.c:593
 msgid "_Open"
-msgstr ""
+msgstr "_Öppna"
 
 #: src/trg-torrent-add-dialog.c:604
 msgid "Start _paused"
@@ -1434,7 +1436,7 @@ msgstr "_Destinatiosnmapp"
 
 #: src/trg-torrent-add-dialog.c:637
 msgid "Apply to all:"
-msgstr ""
+msgstr "Tillämpa för alla:"
 
 #: src/trg-torrent-add-dialog.c:639
 msgid "Torrent _priority:"
@@ -1492,47 +1494,47 @@ msgstr "Flytta %d torrents"
 
 #: src/trg-torrent-props-dialog.c:189
 msgid "Activity"
-msgstr ""
+msgstr "Aktivitet"
 
 #: src/trg-torrent-props-dialog.c:194
 msgid "Torrent size:"
-msgstr ""
+msgstr "Torrentstorlek"
 
 #: src/trg-torrent-props-dialog.c:199
 msgid "Have:"
-msgstr ""
+msgstr "Har"
 
 #: src/trg-torrent-props-dialog.c:204
 msgid "Downloaded:"
-msgstr ""
+msgstr "Nedladdat"
 
 #: src/trg-torrent-props-dialog.c:209
 msgid "Uploaded:"
-msgstr ""
+msgstr "Uppladdat"
 
 #: src/trg-torrent-props-dialog.c:214
 msgid "State:"
-msgstr ""
+msgstr "Status"
 
 #: src/trg-torrent-props-dialog.c:219
 msgid "Running time:"
-msgstr ""
+msgstr "Körtid"
 
 #: src/trg-torrent-props-dialog.c:224
 msgid "Remaining time:"
-msgstr ""
+msgstr "Återstående tid:"
 
 #: src/trg-torrent-props-dialog.c:229
 msgid "Last activity:"
-msgstr ""
+msgstr "Sista aktivitet:"
 
 #: src/trg-torrent-props-dialog.c:233
 msgid "Error:"
-msgstr ""
+msgstr "Fel:"
 
 #: src/trg-torrent-props-dialog.c:236
 msgid "Details"
-msgstr ""
+msgstr "Detaljer"
 
 #: src/trg-torrent-props-dialog.c:245
 msgid "Hash:"
@@ -1540,15 +1542,15 @@ msgstr ""
 
 #: src/trg-torrent-props-dialog.c:251
 msgid "Privacy:"
-msgstr ""
+msgstr "Sekretess:"
 
 #: src/trg-torrent-props-dialog.c:256
 msgid "Origin:"
-msgstr ""
+msgstr "Ursprung:"
 
 #: src/trg-torrent-props-dialog.c:272
 msgid "Comment:"
-msgstr ""
+msgstr "Kommentar:"
 
 #: src/trg-torrent-props-dialog.c:299
 msgid "Private to this tracker -- DHT and PEX disabled"
@@ -1556,30 +1558,30 @@ msgstr ""
 
 #: src/trg-torrent-props-dialog.c:301
 msgid "Public torrent"
-msgstr ""
+msgstr "Publik torrent"
 
 #: src/trg-torrent-props-dialog.c:311
 #, c-format
 msgid "Created by %1$s on %2$s"
-msgstr ""
+msgstr "Skapad av %1 på %2$s"
 
 #: src/trg-torrent-props-dialog.c:313
 #, c-format
 msgid "Created on %1$s"
-msgstr ""
+msgstr "Skapad på %1s"
 
 #: src/trg-torrent-props-dialog.c:315
 #, c-format
 msgid "Created by %1$s"
-msgstr ""
+msgstr "Skapad av %1$s"
 
 #: src/trg-torrent-props-dialog.c:345
 msgid "No errors"
-msgstr ""
+msgstr "Inga fel"
 
 #: src/trg-torrent-props-dialog.c:348
 msgid "Active now"
-msgstr ""
+msgstr "Aktiv nu"
 
 #: src/trg-torrent-props-dialog.c:379
 msgid "Honor global limits"
@@ -1740,15 +1742,15 @@ msgstr "Senaste scrape"
 
 #: src/trg-tree-view.c:261
 msgid "Ascending"
-msgstr ""
+msgstr "Stigande"
 
 #: src/trg-tree-view.c:267
 msgid "Descending"
-msgstr ""
+msgstr "Fallande"
 
 #: src/trg-files-tree-view-common.c:57
 msgid "Rename..."
-msgstr ""
+msgstr "Byt namn..."
 
 #: src/trg-files-tree-view-common.c:93
 msgid "Expand All"
